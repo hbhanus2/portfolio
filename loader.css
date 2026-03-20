@@ -1,0 +1,67 @@
+/* Loader styles extracted from animation.html */
+
+/* Ensure the loader covers the entire screen */
+.loader-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #0a0a12; /* Match body bg */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000; /* Ensure it's on top of everything */
+    
+    /* The Zoom Animation settings */
+    transition: 
+        transform 1.8s cubic-bezier(0.7, 0, 0.3, 1),
+        opacity 1.8s ease-in,
+        filter 1.8s ease-in;
+    will-change: transform, opacity, filter;
+}
+
+.loader-wrapper.zooming {
+    transform: scale(20) perspective(500px) translateZ(200px) rotate(5deg);
+    opacity: 0;
+    filter: blur(8px); 
+    pointer-events: none; /* Let clicks pass through while fading out */
+}
+
+/* Hide when done to prevent interfering with interactions */
+.loader-wrapper.hidden {
+    display: none;
+}
+
+.neural-canvas {
+    width: 400px; /* Fixed size for the SVG container */
+    height: 400px;
+    overflow: visible;
+}
+
+/* --- STYLES --- */
+
+/* The connections are now very faint, just barely visible structure */
+.link {
+    fill: none;
+    stroke: #2a2a40;
+    stroke-width: 1px;
+    opacity: 0.3; /* Low opacity to emphasize the signals */
+}
+
+/* The Moving Signals (Synapses) */
+.signal {
+    fill: #ffffff;         /* White hot center */
+    stroke: #4dffbf;       /* Cyan Glow */
+    stroke-width: 2px;
+    filter: drop-shadow(0 0 4px #4dffbf); /* Glow effect */
+    opacity: 0;            /* Start hidden */
+}
+
+/* Optional: Tiny dots at intersections just to mark positions, but very subtle */
+.node-dot {
+    fill: #1a1a2e;
+    stroke: #2a2a40;
+    stroke-width: 1px;
+    r: 3;
+}

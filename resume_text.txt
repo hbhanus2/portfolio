@@ -1,0 +1,124 @@
+HARSH BHANUSHALI Tempe, AZ 85281|hbhanus2@asu.edu|(602) 831-4158|github(hbhanus2) 
+PROFESSIONAL SUMMARY:  
+Results-driven person with a sturdy foundation in full-stack development, mobile applications, and machine learning. Adept at 
+leveraging Python, JavaScript, and Swift to build scalable web applications, optimize databases, and integrate RESTful APIs. 
+Proven ability to lead teams and translate complex data into efficient, user-centric software solutions. 
+TECHNICAL SKILLS 
+●
+Languages: Python, Java, Swift, JavaScript, C++, C#, SQL, HTML/CSS 
+●
+Frameworks & Libraries: Angular, Node.js, SwiftUI, MapKit, Pandas, Sklearn, OpenCV,Tensorflow,SciPy 
+●
+AI/ML & Data: YOLO, VitPose, Power BI, Deep Learning, CoreLocation,Supervised/Unsupervised Learning 
+●
+Tools & Platforms: Git, Docker, AWS, Xcode, Vercel, Jupyter, Figma, REST APIs, WebSockets,MS Office,Firebase 
+●
+Databases: MySQL, SQL, Microsoft Access, CoreData 
+EDUCATION  
+Bachelor of Science in Informatics , Arizona State University | Tempe, AZ	
+	
+	
+ Expected Graduation: May 2026 
+●
+Relevant Coursework: Software Development, Human Computer Interaction,Data Analysis, Machine Learning, 
+Computer Vision,Bioinformatics 
+PROFESSIONAL EXPERIENCE  
+Viral Fission | Remote Team Lead 	
+	
+	
+	
+	
+	
+	
+	
+|Dec 2020 – Dec 2021 
+●
+Directed a cross-functional team of 7 in executing digital engagement campaigns for enterprise clients, including 
+Spotify and JBL. 
+●
+Analyzed campaign performance data to refine target audience strategies, driving a 20% increase in engagement 
+across campaigns reaching 10,000+ users. 
+●
+Recognized by senior management for exceptional operational leadership, resulting in an accelerated offer for 
+promotion to Zonal Head. 
+ASU Admission Services | Tempe, AZ Data Processing Mentor 	
+	
+	
+	
+	
+|Mar 2022 – May 2023 
+●
+Managed and processed 100+ applicant records and mentored prospective students utilizing the PeopleSoft CRM, 
+significantly improving data processing accuracy. 
+●
+Designed and facilitated training sessions for 15+ incoming student workers on CRM software and operational 
+workflows, boosting team efficiency and reducing onboarding time. 
+PROJECTS 
+AR Fitness Coach App 	
+	
+	
+	
+	
+	
+	
+	
+	
+   |Python,OpenCV, YOLO, VitPose 
+●
+Architected a mobile application utilizing advanced computer vision and pose estimation models to provide users with 
+real-time workout form correction. 
+●
+Evaluated and optimized YOLO and VitPose models for edge deployment, achieving sub-30ms latency and 90% pose-
+estimation accuracy on mobile devices. 
+Secure Full-Stack Web Applications 	
+	
+	
+	
+	
+	
+       |JavaScript, Node.js, SQL, WebSockets 
+●
+Engineered a real-time message board supporting 10 concurrent users, utilizing WebSockets for instant data rendering 
+and a persistent SQL database to minimize message delivery latency. 
+●
+Built a personal expense management application featuring secure user authentication, robust session management, 
+and password hashing utilizing bcrypt. 
+Nearby Trek Finder (iOS) 	
+	
+	
+	
+	
+	
+	
+               |Swift, SwiftUI, MapKit, REST APIs 
+●
+Developed a location-based iOS application that integrates third-party mapping APIs and real-time data to help users 
+navigate local hiking routes. 
+●
+Implemented CoreLocation for dynamic user tracking and designed an intuitive, responsive user interface utilizing 
+SwiftUI and custom state management. 
+Bioinformatics/Molecular Biology projects 	
+	
+	
+	
+	
+	
+      |Python, Deep Learning, BERT 
+●
+Designed a deep learning pipeline leveraging AlphaFold structural constraints and optimized TCR embedding models 
+to predict immune response binding affinities. 
+●
+Engineered an unsupervised learning pipeline to process and analyze complex transcriptomic data sets for dementia 
+research. 
+DigiClips Web Platform  		
+	
+	
+	
+	
+	
+	
+	
+              |Angular, REST APIs, Agile 
+●
+Collaborating in an Agile team environment to develop a modular frontend application using Angular, actively 
+consuming RESTful APIs to deliver dynamic user content.
