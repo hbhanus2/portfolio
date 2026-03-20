@@ -1,16 +1,24 @@
-# My Portfolio Wesbite - Overview 🚀
+# Harsh Bhanushali - Portfolio 🚀
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+Welcome to the open-source repository for my personal portfolio! This project showcases my experience, projects, and skills as a Software Engineer and Machine Learning enthusiast.
 
-## Instructions 🛠️
+## Overview 🛠️
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+This website is a highly customized interactive 3D portfolio built with:
+- **Frontend Frameworks:** React, Next.js, HTML5, CSS3, Tailwind
+- **Languages:** TypeScript, JavaScript, Python, Swift
+- **3D & Animation:** GSAP, ThreeJS, WebGL, React Three Fiber
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## Features ✨
+- **Dynamic 3D Environment:** Interactive GSAP scrolling and a real-time reactive 3D scene.
+- **Multilingual Support:** Dynamic language rotation in the hero component.
+- **Customized Assets:** Deeply personalized layouts showcasing professional experience and tailored data models.
+- **Responsive Design:** Ensures perfect rendering across desktops, tablets, and mobile devices.
 
-![Portfolio-Preview](public/images/preview.png)
+## Contact 📬
+- **Email:** hbhanus2@asu.edu
+- **LinkedIn:** [harshbhanushali1](https://www.linkedin.com/in/harshbhanushali1)
+- **GitHub:** [hbhanus2](https://github.com/hbhanus2)
 
 ## License
-
 This project is open source and available under the [MIT License](LICENSE).
