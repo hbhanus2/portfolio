@@ -36,14 +36,7 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/harshbhanushali"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
+
               href="https://www.instagram.com/harsh_1bhanushali"
               target="_blank"
               data-cursor="disable"
